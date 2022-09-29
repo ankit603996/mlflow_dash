@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/LocalDriveD/Analytics/Learning/mlflow_dash/mlruns/1/3036cc986621455aaa7246e9ba0f8749/artifacts
+end_time: 1664473603581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3036cc986621455aaa7246e9ba0f8749
+run_uuid: 3036cc986621455aaa7246e9ba0f8749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664473598600
+status: 3
+tags: []
+user_id: ankit

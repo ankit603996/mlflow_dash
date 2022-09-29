@@ -1,0 +1,15 @@
+artifact_path: poissonmodel
+flavors:
+  python_function:
+    data: model.statsmodels
+    env: conda.yaml
+    loader_module: mlflow.statsmodels
+    python_version: 3.9.0
+  statsmodels:
+    code: null
+    data: model.statsmodels
+    statsmodels_version: 0.13.2
+mlflow_version: 1.29.0
+model_uuid: 40117391e2c84d4fb2ebe4965d801f56
+run_id: c2ba9865c38e4a428693b5b2903ac9bf
+utc_time_created: '2022-09-29 19:18:14.934938'
